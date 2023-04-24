@@ -2560,10 +2560,10 @@
         "message": "3D Fix:"
     },
     "gpsFixTrue": {
-        "message": "<span class=\"fixtrue\">True</span>"
+        "message": "True"
     },
     "gpsFixFalse": {
-        "message": "<span class=\"fixfalse\">False</span>"
+        "message": "False"
     },
     "gpsAltitude": {
         "message": "Altitude:"
